@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/reactnativechatlite-94898-805688eb/chat_ui_frontend"
+}
